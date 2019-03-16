@@ -17,3 +17,9 @@
     └── todo-app
 ```
 
+- a bunch of good stuff in [NUS](https://school.nushackers.org/)
+
+   
+
+  
+
